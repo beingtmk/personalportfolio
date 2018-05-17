@@ -12,7 +12,6 @@ This website is an assignment for SWC internship. As I go through the course, I'
 
 ### Existing Bugs
 
-- Didn't have documentation (FIXED 11/7/17)
 - The Contact Form doesn't work yet
 
 ### Future Plans
